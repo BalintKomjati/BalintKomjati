@@ -1,9 +1,14 @@
-### Hi there 👋
+## [![header image](https://github.com/BalintKomjati/BalintKomjati/blob/main/DSC04720c.jpg)](https://balint-komjati.hu)
+
+
 
 <!--
 **BalintKomjati/BalintKomjati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+<p align="center"> Hi! 👋 </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
