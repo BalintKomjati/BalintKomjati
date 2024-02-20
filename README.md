@@ -1,3 +1,10 @@
+<h1 align="center">🖖🏻 Hi! I'm Bálint!</h1>
+
+
+I'm a Lead Data Scientist at Raiffeisen Bank Hungary.  
+
+Find out more about me here 👉🏻 https://balint-komjati.hu
+
 ## [![header image](https://github.com/BalintKomjati/BalintKomjati/blob/main/DSC04720c.jpg)](https://balint-komjati.hu)
 
 
@@ -8,7 +15,7 @@
 Here are some ideas to get you started:
 
 
-<p align="center"> Hi! 👋 </p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
